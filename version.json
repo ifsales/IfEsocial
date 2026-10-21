@@ -1,20 +1,20 @@
 {
     "produto":  "ifEsocial",
-    "versao":  "1.8.13.0",
-    "data":  "2026-10-08",
-    "titulo":  "ifEsocial 1.8.13.0",
-    "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.13.0/ifEsocial_Setup_1.8.13.0.exe",
-    "arquivo":  "ifEsocial_Setup_1.8.13.0.exe",
-    "sha256":  "fe0bfe1facc2e704fc4d001dc2268d5ebef052ee0ee77b93ccec8852db60eb41",
+    "versao":  "1.8.16.0",
+    "data":  "2026-10-21",
+    "titulo":  "ifEsocial 1.8.16.0",
+    "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.16.0/ifEsocial_Setup_1.8.16.0.exe",
+    "arquivo":  "ifEsocial_Setup_1.8.16.0.exe",
+    "sha256":  "5907d82a209fd50d7f899a41c0a76c5d4e0c31c2fb1e4000c0b9d6589085c613",
     "portable":  {
-                     "arquivo":  "ifEsocial_Portable_1.8.13.0.zip",
-                     "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.13.0/ifEsocial_Portable_1.8.13.0.zip",
-                     "sha256":  "ee00d12fcfb2b990988282266ead9c805ccc930cc82d5deb899198709de32665"
+                     "arquivo":  "ifEsocial_Portable_1.8.16.0.zip",
+                     "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.16.0/ifEsocial_Portable_1.8.16.0.zip",
+                     "sha256":  "1cff7acde88528a89b880657e6d6fdb70b18a4510a4e0746917be5e854b2b879"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Atualizar o SIP em segundo plano",
-                      "Enviar remuneração sem escolher o tipo",
-                      "Instalador e portable"
+                      "Fechamento da competência (S-1299) e reabertura (S-1298)",
+                      "Atualização do programa (igual ao SIP Dados)",
+                      "Ícone"
                   ]
 }
