@@ -1,18 +1,18 @@
 {
     "produto":  "ifEsocial",
-    "versao":  "1.8.17.0",
+    "versao":  "1.8.18.0",
     "data":  "2026-11-13",
-    "titulo":  "ifEsocial 1.8.17.0",
-    "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.17.0/ifEsocial_Setup_1.8.17.0.exe",
-    "arquivo":  "ifEsocial_Setup_1.8.17.0.exe",
-    "sha256":  "227aa31cf1b9817d78e90cf2326d397175027d1f0d0a38ec94a2940753dbd11a",
+    "titulo":  "ifEsocial 1.8.18.0",
+    "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.18.0/ifEsocial_Setup_1.8.18.0.exe",
+    "arquivo":  "ifEsocial_Setup_1.8.18.0.exe",
+    "sha256":  "5c6897a62909cd2eb9ac8380b991dbeac4aa2d27a8a7db346c279d1580d115f5",
     "portable":  {
-                     "arquivo":  "ifEsocial_Portable_1.8.17.0.zip",
-                     "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.17.0/ifEsocial_Portable_1.8.17.0.zip",
-                     "sha256":  "cdfa23bd16659a55aa237013cf07a6dd97d150ff9e0ff7ad164eec51c0f7ebfa"
+                     "arquivo":  "ifEsocial_Portable_1.8.18.0.zip",
+                     "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.18.0/ifEsocial_Portable_1.8.18.0.zip",
+                     "sha256":  "a515e625c6ce62bf9183718484678bf82ae9db7030d0ae6da940196b7cf0efe3"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Reabrir (S-1298) e encerrar (S-1299) a competência no envio automático"
+                      "S-1210: dados do dependente no próprio evento (erro 1861)"
                   ]
 }
