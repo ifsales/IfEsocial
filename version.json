@@ -1,20 +1,18 @@
 {
     "produto":  "ifEsocial",
-    "versao":  "1.8.16.0",
-    "data":  "2026-10-21",
-    "titulo":  "ifEsocial 1.8.16.0",
-    "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.16.0/ifEsocial_Setup_1.8.16.0.exe",
-    "arquivo":  "ifEsocial_Setup_1.8.16.0.exe",
-    "sha256":  "5907d82a209fd50d7f899a41c0a76c5d4e0c31c2fb1e4000c0b9d6589085c613",
+    "versao":  "1.8.17.0",
+    "data":  "2026-11-13",
+    "titulo":  "ifEsocial 1.8.17.0",
+    "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.17.0/ifEsocial_Setup_1.8.17.0.exe",
+    "arquivo":  "ifEsocial_Setup_1.8.17.0.exe",
+    "sha256":  "227aa31cf1b9817d78e90cf2326d397175027d1f0d0a38ec94a2940753dbd11a",
     "portable":  {
-                     "arquivo":  "ifEsocial_Portable_1.8.16.0.zip",
-                     "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.16.0/ifEsocial_Portable_1.8.16.0.zip",
-                     "sha256":  "1cff7acde88528a89b880657e6d6fdb70b18a4510a4e0746917be5e854b2b879"
+                     "arquivo":  "ifEsocial_Portable_1.8.17.0.zip",
+                     "download":  "https://github.com/ifsales/IfEsocial/releases/download/v1.8.17.0/ifEsocial_Portable_1.8.17.0.zip",
+                     "sha256":  "cdfa23bd16659a55aa237013cf07a6dd97d150ff9e0ff7ad164eec51c0f7ebfa"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Fechamento da competência (S-1299) e reabertura (S-1298)",
-                      "Atualização do programa (igual ao SIP Dados)",
-                      "Ícone"
+                      "Reabrir (S-1298) e encerrar (S-1299) a competência no envio automático"
                   ]
 }
